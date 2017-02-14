@@ -1,0 +1,11 @@
+Uuid: ad5f51b515d14490ae8842ce61f60df5
+ExtensionType: 2
+Name: Intruder Time Payloads
+RepoName: intruder-time-payloads
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Andrew Whitmer
+ShortDescription: Lets you include the current epoch time in Intruder payloads.
+EntryPoint: current_epoch_time.py
